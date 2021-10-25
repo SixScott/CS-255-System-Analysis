@@ -5,11 +5,11 @@ The DriverPass client wanted to design a system to help improve student drivers'
 
 What did you do particularly well?
 
-I think one thing I did well was to condider all the moving parts in the system that would be required to make it work. I tried to focus on what would be needed for the system as far as hardware goes, even though the client may not have specified what they needed.
+I feel that my diagrams were done really well, I really like how each of them turned out.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I would revise the System Design Document and would improve some aspects of the activity diagrams. To improve it, I would add some of the missing cases within the 'Make Reservation' activity digram. For example, I could add a flow within the diagram that would include a decision based on whether the user has an existing account.
+I would revise the System Design Document and would improve some aspects of the activity diagrams. To improve it, I would like to go into more detail or even add more to the document.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
